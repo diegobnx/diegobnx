@@ -31,28 +31,6 @@ Bem-vindo ao meu perfil! Sou Diego Marin, um profissional multi-certificado em C
 - **Cloud Security** ☁️ - Segurança em Nuvem (AWS)  
 - **Python Developer** 🐍 - Automação e Scripts  
 
-## 📂 Projetos
-### Python Projects 🐍
-- **Python Socket SSL** 🔐 - Comunicação segura com sockets  
-- **Pentest** 🕵️‍♂️ - Ferramentas de teste de penetração  
-- **OpenCV Webcam Stream** 📹 - Streaming com visão computacional  
-
-### C Projects 🌐
-- **Kernel Module Linux** 🐧 - Módulos personalizados para Linux  
-
-### Perl Projects 🌿
-- **Password Generator** 🔑 - Gerador de senhas seguras  
-
-## ⚙️ Como Contribuir
-1. Fork este repo 🌱  
-2. Crie uma branch: `git checkout -b minha-feature`  
-3. Commit: `git commit -m "Adiciona feature"`  
-4. Push: `git push origin minha-feature`  
-5. Abra um PR! 🎉  
-
-## 📜 Licença
-[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## 📧 Contato
 - **GitHub**: [diegomarinsec](https://github.com/diegomarinsec)  
 - **LinkedIn**: [diegomarinsec](https://www.linkedin.com/in/diegomarinsec/)  
