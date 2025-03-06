@@ -10,25 +10,3 @@ Ferramentas e scripts de segurança cibernética por Diego Marin, especialista e
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
 [![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)](https://www.torproject.org/)  
 [![Perl](https://img.shields.io/badge/Perl-39457A?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
-
-## 📂 Projetos
-
-### Python Projects 🐍
-- [Python Socket SSL](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/python/socket_ssl) 🔐  
-- [Python Networks](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/python/networks) 🌐  
-- [Pentest](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/python/pentest) 🛡️  
-- [OpenCV Webcam Stream](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/python/opencv_stream) 📹  
-- [Django Project-1](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/python/django_1) 🌟  
-- [Django Project-2](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/python/django_2) 🌟  
-
-### C Projects 🌐
-- [Programming C](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/c/programming) 💻  
-- [Kernel Module Linux](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/c/kernel_module) 🐧  
-
-### Perl Projects 🌿
-- [Password Generator](https://github.com/diegomarinsec/diego-cyber-tools/tree/main/perl/password_gen) 🔑  
-
-## ⚙️ Instalação
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/diegomarinsec/diego-cyber-tools.git
