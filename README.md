@@ -14,7 +14,6 @@ Bem-vindo ao meu perfil! Sou Diego Marin, um profissional multi-certificado em C
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Perl](https://img.shields.io/badge/Perl-39457A?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
 
 ## 🎓 Certificações (Cronologia)
 - **AWS Certified Security – Specialty** (Jan 2025 - Jan 2028)  
