@@ -1,7 +1,8 @@
 # Diego Marin 👨‍💻🔒 - Especialista em Cybersecurity
 
 ![Status](https://img.shields.io/badge/Status-Ativo-green)  
-Bem-vindo ao meu perfil! Sou Diego Marin, um profissional multi-certificado em Cybersecurity, focado em Pentest, Ethical Hacking e Cloud Security. Confira mais em [dm.seg.br](https://dm.seg.br).
+Bem-vindo ao meu perfil! 
+Sou Diego Marin, um profissional de Cybersecurity, focado em Pentest, Ethical Hacking e Cloud Security. Confira mais em [dm.seg.br](https://dm.seg.br).
 
 ## 🚀 Sobre Mim
 - **Especialidade**: Cybersecurity, AWS, Pentest & Ethical Hacking  
