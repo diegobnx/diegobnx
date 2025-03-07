@@ -9,8 +9,8 @@ Bem-vindo ao meu perfil! Sou Diego Marin, um profissional multi-certificado em C
 - **Missão**: Criar ferramentas e soluções para proteger sistemas e compartilhar conhecimento.
 
 ## 🛠️ Tecnologias
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+ 
 
 ## 🎓 Certificações (Cronologia)
 - **AWS Certified Security – Specialty** (Jan 2025 - Jan 2028)  
@@ -27,8 +27,7 @@ Bem-vindo ao meu perfil! Sou Diego Marin, um profissional multi-certificado em C
 - **Cloud Security** ☁️ - Segurança em Nuvem (AWS)  
 - **Python Developer** 🐍 - Automação e Scripts  
 
-## 📧 Contato
-- **GitHub**: [diegomarinsec](https://github.com/diegomarinsec)  
+## 📧 Contato 
 - **LinkedIn**: [diegomarinsec](https://www.linkedin.com/in/diegomarinsec/)  
 - **Instagram**: [@dieg0x6f](https://www.instagram.com/dieg0x6f/)  
 - **Site**: [dm.seg.br](https://dm.seg.br)  
