@@ -27,9 +27,12 @@ Bem-vindo ao meu perfil! Sou Diego Marin, um profissional multi-certificado em C
 - **Cloud Security** ☁️ - Segurança em Nuvem (AWS)  
 - **Python Developer** 🐍 - Automação e Scripts  
 
-## 📧 Contato 
-- **LinkedIn**: [diegomarinsec](https://www.linkedin.com/in/diegomarinsec/)  
-- **Instagram**: [@dieg0x6f](https://www.instagram.com/dieg0x6f/)  
-- **Site**: [dm.seg.br](https://dm.seg.br)  
+## 🌐 Redes Sociais
+<div align="center">
+  <a href="https://www.youtube.com/@diegomarinsec" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dieg0x6f/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/dieg0x6f" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diegomarinsec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 Feito com ❤️ e 💻 por Diego Marin 🔐
